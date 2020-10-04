@@ -1,6 +1,6 @@
 # Book settings
-title: My sample book
-author: The Jupyter Book Community
+title: Basketball Data Science with Python
+author: Pat McFarlane
 logo: logo.png
 
 latex:
